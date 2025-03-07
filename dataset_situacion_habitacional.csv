@@ -1,0 +1,6 @@
+Regimen_Tenencia,Tipo_Vivienda,Hacinamiento,Metros_Cuadrados,Personas_Hogar,Ingreso_SMVM,Condicion_Laboral,Nivel_Educativo,Zona_CABA,Variacion_Inquilinos,Precio_Alquiler_M2,Incremento_Alquiler
+Propietario,Departamento,0.2,50,2,3.5,Asalariado,Universitario,Norte,10,1000,20
+Inquilino,Casa,0.5,80,4,2.0,Cuenta propia,Secundario,Centro,15,800,25
+Ocupante de hecho,Pensión,1.5,20,3,1.5,Desempleado,Primario,Sur,25,600,30
+Inquilino,Conventillo,2.5,15,6,1.0,Cuenta propia,Secundario,Sur,30,500,35
+Propietario,Departamento,0.3,60,2,4.0,Asalariado,Universitario,Centro,12,1100,18
